@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeshmukhDevendra
-- 👀 I’m interested in learning new thjngs
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning NgRx
 - 💞️ I’m looking to collaborate on .Net Core 6.1 and Angular 13 projects
 - 📫 How to reach me : devendra.sharad.deshmukh@gmail.com
