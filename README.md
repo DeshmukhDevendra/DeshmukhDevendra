@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DeshmukhDevendra
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning NgRx
-- 💞️ I’m looking to collaborate on .Net Core 6.1 and Angular 13 projects
+- 💞️ I’m looking to collaborate on Latest .Net Core and Angular projects
 - 📫 How to reach me : devendra.sharad.deshmukh@gmail.com
 
 <!---
